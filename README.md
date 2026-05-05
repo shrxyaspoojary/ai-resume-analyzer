@@ -7,6 +7,9 @@ This project is a simple web-based application that analyzes a candidate’s res
 It was developed as a practical way to explore basic natural language processing techniques and understand how text data can be compared using machine learning concepts.
 
 ---
+## Application Preview
+
+![Application Screenshot](screenshot.png)
 
 ## Features
 
